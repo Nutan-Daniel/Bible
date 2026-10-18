@@ -1,0 +1,84 @@
+{
+  "devotionals": [
+    {
+      "id": "d1",
+      "date": "2026-10-01",
+      "title": "Trust in the Lord",
+      "scripture": "Proverbs 3:5-6",
+      "content": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+      "verseOfTheDay": false
+    },
+    {
+      "id": "d2",
+      "date": "2026-10-02",
+      "title": "The Lord is My Shepherd",
+      "scripture": "Psalm 23:1",
+      "content": "The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul.",
+      "verseOfTheDay": false
+    },
+    {
+      "id": "d3",
+      "date": "2026-10-03",
+      "title": "Be Strong and Courageous",
+      "scripture": "Joshua 1:9",
+      "content": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+      "verseOfTheDay": false
+    },
+    {
+      "id": "d4",
+      "date": "2026-10-04",
+      "title": "God's Love for the World",
+      "scripture": "John 3:16",
+      "content": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+      "verseOfTheDay": true
+    },
+    {
+      "id": "d5",
+      "date": "2026-10-05",
+      "title": "Peace in Christ",
+      "scripture": "John 16:33",
+      "content": "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.",
+      "verseOfTheDay": false
+    },
+    {
+      "id": "d6",
+      "date": "2026-10-10",
+      "title": "Faith Without Works",
+      "scripture": "James 2:17",
+      "content": "In the same way, faith by itself, if it is not accompanied by action, is dead.",
+      "verseOfTheDay": false
+    },
+    {
+      "id": "d7",
+      "date": "2026-10-15",
+      "title": "Rejoice Always",
+      "scripture": "1 Thessalonians 5:16-18",
+      "content": "Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus.",
+      "verseOfTheDay": false
+    },
+    {
+      "id": "d8",
+      "date": "2026-10-17",
+      "title": "The Lord is Near",
+      "scripture": "Psalm 145:18",
+      "content": "The Lord is near to all who call on him, to all who call on him in truth.",
+      "verseOfTheDay": false
+    },
+    {
+      "id": "d9",
+      "date": "2026-10-20",
+      "title": "New Mercies Every Morning",
+      "scripture": "Lamentations 3:22-23",
+      "content": "Because of the Lord's great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.",
+      "verseOfTheDay": false
+    },
+    {
+      "id": "d10",
+      "date": "2026-10-31",
+      "title": "Light of the World",
+      "scripture": "Matthew 5:14-16",
+      "content": "You are the light of the world. A town built on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl.",
+      "verseOfTheDay": false
+    }
+  ]
+}

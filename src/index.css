@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --dark-selector: .dark;
+}
+
+:root { color-scheme: light dark; }
+body { margin: 0; }
+
+/* ponytail: explicit dark overrides since Tailwind v4 class-based dark mode isn't applying visually */
+.dark .bg-white { background-color: #0f172a !important; }
+.dark .bg-gray-100 { background-color: #1e293b !important; }
+.dark .bg-gray-950 { background-color: #020617 !important; }
+.dark .text-gray-900 { color: #f8fafc !important; }
+.dark .text-gray-500 { color: #94a3b8 !important; }
+.dark .text-gray-100 { color: #f1f5f9 !important; }
+.dark .border-gray-200 { border-color: #1e293b !important; }
+.dark .border-gray-800 { border-color: #334155 !important; }

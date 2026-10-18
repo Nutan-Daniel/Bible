@@ -1,0 +1,742 @@
+{
+  "gn": {
+    "bookId": "gn",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "refs": [
+              { "bookId": "jn", "chapter": 1, "verse": 1 },
+              { "bookId": "cl", "chapter": 1, "verse": 16 },
+              { "bookId": "hb", "chapter": 11, "verse": 3 }
+            ]
+          },
+          {
+            "verse": 26,
+            "refs": [
+              { "bookId": "gn", "chapter": 1, "verse": 27 },
+              { "bookId": "gn", "chapter": 5, "verse": 1 },
+              { "bookId": "gn", "chapter": 9, "verse": 6 }
+            ]
+          },
+          {
+            "verse": 31,
+            "refs": [
+              { "bookId": "1tm", "chapter": 4, "verse": 4 },
+              { "bookId": "ec", "chapter": 3, "verse": 11 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 3,
+            "refs": [
+              { "bookId": "ex", "chapter": 20, "verse": 11 },
+              { "bookId": "ex", "chapter": 31, "verse": 17 },
+              { "bookId": "hb", "chapter": 4, "verse": 4 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 15,
+            "refs": [
+              { "bookId": "rn", "chapter": 16, "verse": 20 },
+              { "bookId": "rl", "chapter": 12, "verse": 9 },
+              { "bookId": "rl", "chapter": 20, "verse": 2 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ex": {
+    "bookId": "ex",
+    "chapters": [
+      {
+        "chapter": 20,
+        "verses": [
+          {
+            "verse": 1,
+            "refs": [
+              { "bookId": "dt", "chapter": 5, "verse": 1 },
+              { "bookId": "mt", "chapter": 5, "verse": 17 }
+            ]
+          },
+          {
+            "verse": 12,
+            "refs": [
+              { "bookId": "dt", "chapter": 5, "verse": 16 },
+              { "bookId": "mt", "chapter": 15, "verse": 4 },
+              { "bookId": "ep", "chapter": 6, "verse": 2 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 34,
+        "verses": [
+          {
+            "verse": 29,
+            "refs": [
+              { "bookId": "2co", "chapter": 3, "verse": 7 },
+              { "bookId": "lk", "chapter": 9, "verse": 29 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "lv": {
+    "bookId": "lv",
+    "chapters": [
+      {
+        "chapter": 19,
+        "verses": [
+          {
+            "verse": 18,
+            "refs": [
+              { "bookId": "mt", "chapter": 22, "verse": 39 },
+              { "bookId": "mk", "chapter": 12, "verse": 31 },
+              { "bookId": "lk", "chapter": 10, "verse": 27 },
+              { "bookId": "rm", "chapter": 13, "verse": 9 },
+              { "bookId": "gl", "chapter": 5, "verse": 14 },
+              { "bookId": "jm", "chapter": 2, "verse": 8 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "dt": {
+    "bookId": "dt",
+    "chapters": [
+      {
+        "chapter": 6,
+        "verses": [
+          {
+            "verse": 4,
+            "refs": [
+              { "bookId": "mk", "chapter": 12, "verse": 29 },
+              { "bookId": "mk", "chapter": 12, "verse": 32 }
+            ]
+          },
+          {
+            "verse": 5,
+            "refs": [
+              { "bookId": "mt", "chapter": 22, "verse": 37 },
+              { "bookId": "mk", "chapter": 12, "verse": 30 },
+              { "bookId": "lk", "chapter": 10, "verse": 27 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ps": {
+    "bookId": "ps",
+    "chapters": [
+      {
+        "chapter": 23,
+        "verses": [
+          {
+            "verse": 1,
+            "refs": [
+              { "bookId": "jn", "chapter": 10, "verse": 11 },
+              { "bookId": "jn", "chapter": 10, "verse": 14 },
+              { "bookId": "1pe", "chapter": 5, "verse": 4 }
+            ]
+          },
+          {
+            "verse": 4,
+            "refs": [
+              { "bookId": "ps", "chapter": 23, "verse": 4 },
+              { "bookId": "2co", "chapter": 1, "verse": 4 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 119,
+        "verses": [
+          {
+            "verse": 105,
+            "refs": [
+              { "bookId": "ps", "chapter": 119, "verse": 130 },
+              { "bookId": "pr", "chapter": 6, "verse": 23 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 139,
+        "verses": [
+          {
+            "verse": 13,
+            "refs": [
+              { "bookId": "je", "chapter": 1, "verse": 5 },
+              { "bookId": "lk", "chapter": 1, "verse": 15 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pr": {
+    "bookId": "pr",
+    "chapters": [
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 5,
+            "refs": [
+              { "bookId": "pr", "chapter": 3, "verse": 6 },
+              { "bookId": "je", "chapter": 17, "verse": 5 },
+              { "bookId": "pr", "chapter": 28, "verse": 26 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 31,
+        "verses": [
+          {
+            "verse": 10,
+            "refs": [
+              { "bookId": "gn", "chapter": 2, "verse": 18 },
+              { "bookId": "pr", "chapter": 19, "verse": 14 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ec": {
+    "bookId": "ec",
+    "chapters": [
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "refs": [
+              { "bookId": "ec", "chapter": 3, "verse": 11 },
+              { "bookId": "ec", "chapter": 3, "verse": 14 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "is": {
+    "bookId": "is",
+    "chapters": [
+      {
+        "chapter": 53,
+        "verses": [
+          {
+            "verse": 5,
+            "refs": [
+              { "bookId": "1pe", "chapter": 2, "verse": 24 },
+              { "bookId": "mt", "chapter": 8, "verse": 17 },
+              { "bookId": "jn", "chapter": 19, "verse": 37 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 61,
+        "verses": [
+          {
+            "verse": 1,
+            "refs": [
+              { "bookId": "lk", "chapter": 4, "verse": 18 },
+              { "bookId": "lk", "chapter": 4, "verse": 21 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 65,
+        "verses": [
+          {
+            "verse": 17,
+            "refs": [
+              { "bookId": "is", "chapter": 66, "verse": 22 },
+              { "bookId": "2pe", "chapter": 3, "verse": 13 },
+              { "bookId": "re", "chapter": 21, "verse": 1 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "mt": {
+    "bookId": "mt",
+    "chapters": [
+      {
+        "chapter": 5,
+        "verses": [
+          {
+            "verse": 1,
+            "refs": [
+              { "bookId": "lk", "chapter": 6, "verse": 20 }
+            ]
+          },
+          {
+            "verse": 3,
+            "refs": [
+              { "bookId": "lk", "chapter": 6, "verse": 20 },
+              { "bookId": "mt", "chapter": 5, "verse": 5 }
+            ]
+          },
+          {
+            "verse": 44,
+            "refs": [
+              { "bookId": "lk", "chapter": 6, "verse": 27 },
+              { "bookId": "lk", "chapter": 6, "verse": 35 },
+              { "bookId": "rm", "chapter": 12, "verse": 20 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 28,
+        "verses": [
+          {
+            "verse": 19,
+            "refs": [
+              { "bookId": "mt", "chapter": 28, "verse": 20 },
+              { "bookId": "at", "chapter": 1, "verse": 8 }
+            ]
+          },
+          {
+            "verse": 20,
+            "refs": [
+              { "bookId": "mt", "chapter": 28, "verse": 19 },
+              { "bookId": "at", "chapter": 1, "verse": 8 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 24,
+        "verses": [
+          {
+            "verse": 36,
+            "refs": [
+              { "bookId": "mk", "chapter": 13, "verse": 32 },
+              { "bookId": "mk", "chapter": 13, "verse": 33 },
+              { "bookId": "lk", "chapter": 21, "verse": 36 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "mk": {
+    "bookId": "mk",
+    "chapters": [
+      {
+        "chapter": 10,
+        "verses": [
+          {
+            "verse": 27,
+            "refs": [
+              { "bookId": "mt", "chapter": 19, "verse": 26 },
+              { "bookId": "lk", "chapter": 18, "verse": 27 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "lk": {
+    "bookId": "lk",
+    "chapters": [
+      {
+        "chapter": 15,
+        "verses": [
+          {
+            "verse": 3,
+            "refs": [
+              { "bookId": "lk", "chapter": 15, "verse": 4 },
+              { "bookId": "lk", "chapter": 15, "verse": 8 },
+              { "bookId": "lk", "chapter": 15, "verse": 11 }
+            ]
+          },
+          {
+            "verse": 11,
+            "refs": [
+              { "bookId": "lk", "chapter": 15, "verse": 12 },
+              { "bookId": "lk", "chapter": 15, "verse": 20 },
+              { "bookId": "lk", "chapter": 15, "verse": 24 }
+            ]
+          },
+          {
+            "verse": 22,
+            "refs": [
+              { "bookId": "lk", "chapter": 15, "verse": 23 },
+              { "bookId": "lk", "chapter": 15, "verse": 32 }
+            ]
+          },
+          {
+            "verse": 32,
+            "refs": [
+              { "bookId": "lk", "chapter": 15, "verse": 23 },
+              { "bookId": "lk", "chapter": 15, "verse": 24 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "jn": {
+    "bookId": "jn",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "refs": [
+              { "bookId": "gn", "chapter": 1, "verse": 1 },
+              { "bookId": "cl", "chapter": 1, "verse": 16 }
+            ]
+          },
+          {
+            "verse": 14,
+            "refs": [
+              { "bookId": "jn", "chapter": 1, "verse": 18 },
+              { "bookId": "2co", "chapter": 4, "verse": 6 }
+            ]
+          },
+          {
+            "verse": 3,
+            "refs": [
+              { "bookId": "gn", "chapter": 1, "verse": 3 },
+              { "bookId": "cl", "chapter": 1, "verse": 16 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 16,
+            "refs": [
+              { "bookId": "jn", "chapter": 3, "verse": 17 },
+              { "bookId": "jn", "chapter": 3, "verse": 36 },
+              { "bookId": "rn", "chapter": 5, "verse": 8 },
+              { "bookId": "1j", "chapter": 4, "verse": 10 }
+            ]
+          },
+          {
+            "verse": 17,
+            "refs": [
+              { "bookId": "jn", "chapter": 3, "verse": 16 },
+              { "bookId": "jn", "chapter": 5, "verse": 24 }
+            ]
+          },
+          {
+            "verse": 36,
+            "refs": [
+              { "bookId": "jn", "chapter": 5, "verse": 24 },
+              { "bookId": "jn", "chapter": 3, "verse": 16 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "verses": [
+          {
+            "verse": 11,
+            "refs": [
+              { "bookId": "ps", "chapter": 23, "verse": 1 },
+              { "bookId": "jn", "chapter": 10, "verse": 14 },
+              { "bookId": "hb", "chapter": 13, "verse": 20 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 11,
+        "verses": [
+          {
+            "verse": 25,
+            "refs": [
+              { "bookId": "jn", "chapter": 11, "verse": 26 },
+              { "bookId": "rn", "chapter": 6, "verse": 40 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 14,
+        "verses": [
+          {
+            "verse": 6,
+            "refs": [
+              { "bookId": "jn", "chapter": 10, "verse": 9 },
+              { "bookId": "jn", "chapter": 14, "verse": 9 },
+              { "bookId": "jn", "chapter": 14, "verse": 13 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 20,
+        "verses": [
+          {
+            "verse": 31,
+            "refs": [
+              { "bookId": "jn", "chapter": 20, "verse": 30 },
+              { "bookId": "1j", "chapter": 5, "verse": 13 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "at": {
+    "bookId": "at",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 8,
+            "refs": [
+              { "bookId": "mt", "chapter": 28, "verse": 19 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 42,
+            "refs": [
+              { "bookId": "at", "chapter": 2, "verse": 46 },
+              { "bookId": "at", "chapter": 2, "verse": 47 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 12,
+            "refs": [
+              { "bookId": "jn", "chapter": 14, "verse": 6 },
+              { "bookId": "1pe", "chapter": 4, "verse": 11 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "rn": {
+    "bookId": "rn",
+    "chapters": [
+      {
+        "chapter": 8,
+        "verses": [
+          {
+            "verse": 28,
+            "refs": [
+              { "bookId": "rn", "chapter": 8, "verse": 29 },
+              { "bookId": "gn", "chapter": 50, "verse": 20 },
+              { "bookId": "gn", "chapter": 45, "verse": 5 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "verses": [
+          {
+            "verse": 9,
+            "refs": [
+              { "bookId": "rn", "chapter": 10, "verse": 10 },
+              { "bookId": "1j", "chapter": 4, "verse": 2 }
+            ]
+          },
+          {
+            "verse": 10,
+            "refs": [
+              { "bookId": "rn", "chapter": 10, "verse": 9 },
+              { "bookId": "1j", "chapter": 4, "verse": 2 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 12,
+        "verses": [
+          {
+            "verse": 1,
+            "refs": [
+              { "bookId": "rn", "chapter": 12, "verse": 2 },
+              { "bookId": "gn", "chapter": 45, "verse": 5 },
+              { "bookId": "he", "chapter": 12, "verse": 2 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ep": {
+    "bookId": "ep",
+    "chapters": [
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 8,
+            "refs": [
+              { "bookId": "ep", "chapter": 2, "verse": 9 },
+              { "bookId": "1tm", "chapter": 3, "verse": 5 },
+              { "bookId": "2tm", "chapter": 1, "verse": 9 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 20,
+            "refs": [
+              { "bookId": "ep", "chapter": 3, "verse": 21 },
+              { "bookId": "jd", "chapter": 1, "verse": 24 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "cl": {
+    "bookId": "cl",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 16,
+            "refs": [
+              { "bookId": "gn", "chapter": 1, "verse": 1 },
+              { "bookId": "jn", "chapter": 1, "verse": 3 },
+              { "bookId": "hb", "chapter": 1, "verse": 2 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 16,
+            "refs": [
+              { "bookId": "cl", "chapter": 3, "verse": 15 },
+              { "bookId": "cl", "chapter": 3, "verse": 17 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "1j": {
+    "bookId": "1j",
+    "chapters": [
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 10,
+            "refs": [
+              { "bookId": "jn", "chapter": 3, "verse": 16 },
+              { "bookId": "1j", "chapter": 4, "verse": 19 }
+            ]
+          },
+          {
+            "verse": 19,
+            "refs": [
+              { "bookId": "1j", "chapter": 4, "verse": 10 },
+              { "bookId": "jn", "chapter": 3, "verse": 16 }
+            ]
+          },
+          {
+            "verse": 8,
+            "refs": [
+              { "bookId": "1j", "chapter": 4, "verse": 16 },
+              { "bookId": "jn", "chapter": 3, "verse": 16 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "verses": [
+          {
+            "verse": 14,
+            "refs": [
+              { "bookId": "1j", "chapter": 5, "verse": 15 },
+              { "bookId": "jn", "chapter": 14, "verse": 13 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "re": {
+    "bookId": "re",
+    "chapters": [
+      {
+        "chapter": 21,
+        "verses": [
+          {
+            "verse": 1,
+            "refs": [
+              { "bookId": "gn", "chapter": 1, "verse": 1 },
+              { "bookId": "is", "chapter": 65, "verse": 17 },
+              { "bookId": "2pe", "chapter": 3, "verse": 13 }
+            ]
+          },
+          {
+            "verse": 4,
+            "refs": [
+              { "bookId": "re", "chapter": 7, "verse": 17 },
+              { "bookId": "re", "chapter": 21, "verse": 5 }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter": 22,
+        "verses": [
+          {
+            "verse": 13,
+            "refs": [
+              { "bookId": "re", "chapter": 1, "verse": 17 },
+              { "bookId": "re", "chapter": 22, "verse": 20 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
